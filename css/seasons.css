@@ -77,6 +77,13 @@ section { margin-top: 15px; background-color: #FFF; }
 	cursor: pointer;
 }
 
-.lightbox-img{
+.lightbox-im{
 	display: block;
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 5%;
+}
+
+.img-desc{
+	margin-left: 25%;
 }

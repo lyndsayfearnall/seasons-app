@@ -6,7 +6,7 @@
       appliedClass;
 
       function changeElements() {
-        // i want to load dynamic content here
+        // I want to load dynamic content here
         //debugger;
         let subImages = document.querySelector('.subImagesContainer');
         let objectIndex = dynamicContent[this.id];
@@ -15,6 +15,7 @@
         while (subImages.firstChild) {
           subImages.removeChild(subImages.firstChild);
         }
+
         // create an image element and add it to the page
         objectIndex.images.forEach(function(element, index){
           let newSubImg = document.createElement('img');
@@ -73,9 +74,13 @@
         lightboxClose.addEventListener('click', closeLightbox, false);
       }
 
-function closeLightbox(){
-  debugger
-}
+    function closeLightbox(){
+      //debugger
+      const lightbox = document.querySelector('.lightbox');
+      lightbox.style.display = 'none';
+      document.body.style.overflow = "auto";
+    }
+
       // initialize the app
       // theSubhead.firstChild.nodeValue = dynamicContent['spring'].headline;
       // theSeasonText.firstChild.nodeValue = dynamicContent['spring'].text;
