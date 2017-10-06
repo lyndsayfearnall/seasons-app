@@ -6,7 +6,24 @@ var dynamicContent = {
 
 			images : [
 				"spring_1.jpg",
+<<<<<<< HEAD
 				"spring_2.jpg"
+=======
+				"spring_2.jpg",
+				"spring_3.jpeg",
+				"spring_4.jpeg",
+				"spring_5.jpeg",
+				"spring_6.jpeg"
+			],
+
+			imageDescription : [
+				'These are some pretty butterflies',
+				'This is some kind of mutant chicken',
+				'This is a girl with a basket',
+				'These are some more flowers',
+				'These are some bird eggs',
+				'Here are even more flowers'
+>>>>>>> dev.lynds.lightbox
 			]
 		},
 
@@ -17,7 +34,24 @@ var dynamicContent = {
 
 			images : [
 				"summer_1.jpg",
+<<<<<<< HEAD
 				"summer_2.jpg"
+=======
+				"summer_2.jpg",
+				"summer_3.jpeg",
+				"summer_4.jpeg",
+				"summer_5.jpeg",
+				"summer_6.jpg",
+			],
+
+			imageDescription : [
+				'These are some colourful beach chairs',
+				'This is a dog in a hammock',
+				'These are sunglasses',
+				'This is a beach',
+				'This is a creek',
+				'This is a meadow'
+>>>>>>> dev.lynds.lightbox
 			]
 		},
 
@@ -28,7 +62,24 @@ var dynamicContent = {
 
 			images : [
 				"autumn_1.jpg",
+<<<<<<< HEAD
 				"autumn_2.jpg"
+=======
+				"autumn_2.jpg",
+				"autumn_3.jpeg",
+				"autumn_4.jpeg",
+				"autumn_5.jpeg",
+				"autumn_6.jpeg"
+			],
+
+			imageDescription : [
+				'This is a forest',
+				'These are some pumpkins',
+				'This is a tree',
+				'This person is standing on leaves',
+				'These are some empty benches',
+				'This is a field'
+>>>>>>> dev.lynds.lightbox
 			]
 		},
 
@@ -39,7 +90,24 @@ var dynamicContent = {
 
 			images : [
 				"winter_1.jpg",
+<<<<<<< HEAD
 				"winter_2.jpg"
+=======
+				"winter_2.jpg",
+				"winter_3.jpeg",
+				"winter_4.jpeg",
+				"winter_5.jpeg",
+				"winter_6.jpeg"
+			],
+
+			imageDescription : [
+				'This is a snowy forest',
+				'This is a snowman',
+				'This is another snowy forest',
+				"Dont eat yellow snow",
+				'Another snowman',
+				'These are the Northern Lights'
+>>>>>>> dev.lynds.lightbox
 			]
 		}
 	};
